@@ -1,4 +1,4 @@
-# Flutter Developer Portfolio – Muhammad Hassan
+# Flutter Developer  – Muhammad Hassan
 
 Hello and welcome! 👋🏽  
 I'm **Muhammad Hassan**, a passionate Flutter developer focused on building high-performance, elegant, and user-friendly mobile applications. This portfolio showcases my featured projects in the **marriage/matrimonial** app domain.
@@ -25,9 +25,9 @@ I’m actively seeking **remote** or **relocation** job opportunities. If you're
 ### 📱 App Screenshots
 
 <p align="left">
-  <img width="200" alt="Nikah Plus Screenshot 1" src="https://github.com/muhammadhassanmahar/muhammadhassanmahar.github.io/blob/main/images/nikah_screenshot1.png?raw=true" />
-  <img width="200" alt="Nikah Plus Screenshot 2" src="https://github.com/muhammadhassanmahar/muhammadhassanmahar.github.io/blob/main/images/nikah_screenshot2.png?raw=true" />
-  <img width="200" alt="Nikah Plus Screenshot 3" src="https://github.com/muhammadhassanmahar/muhammadhassanmahar.github.io/blob/main/images/nikah_screenshot3.png?raw=true" />
+  <img width="200" alt="Nikah Plus Screenshot 1" src=https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/WhatsApp%20Image%202025-07-24%20at%2012.31.15%20PM.jpeg?raw=true" />
+  <img width="200" alt="Nikah Plus Screenshot 2" src=https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/WhatsApp%20Image%202025-08-05%20at%201.35.29%20PM%20(1).jpeg?raw=true" />
+  <img width="200" alt="Nikah Plus Screenshot 3" src="https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/WhatsApp%20Image%202025-08-05%20at%201.35.30%20PM.jpeg?raw=true" />
 </p>
 
 ### 🛠️ Tech Stack
