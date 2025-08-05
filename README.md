@@ -61,9 +61,9 @@ I’m actively seeking **remote** or **relocation** job opportunities. If you're
 ### 📱 App Screenshots
 
 <p align="left">
-  <img width="200" alt="Sparkle Screenshot 1" src=https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/Screenshot%202025-08-02%20155737.png" />
-  <img width="200" alt="Sparkle Screenshot 2" src="https://github.com/muhammadhassanmahar/muhammadhassanmahar.github.io/blob/main/images/sparkle_screenshot2.png?raw=true" />
-  <img width="200" alt="Sparkle Screenshot 3" src="https://github.com/muhammadhassanmahar/muhammadhassanmahar.github.io/blob/main/images/sparkle_screenshot3.png?raw=true" />
+  <img width="200" alt="Sparkle Screenshot 1" src="https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/Screenshot%202025-08-02%20211928.png?raw=true" />
+  <img width="200" alt="Sparkle Screenshot 2" src="https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/Screenshot%202025-08-02%20211525.png?raw=true" />
+  <img width="200" alt="Sparkle Screenshot 3" src="https://github.com/muhammadhassanmahar/muhammadhassan.github.io/blob/main/Screenshot%202025-08-02%20155737.png?raw=true" />
 </p>
 
 ### 🛠️ Tech Stack
@@ -84,5 +84,7 @@ I’m actively seeking **remote** or **relocation** job opportunities. If you're
 If you like what you see and would like to collaborate or discuss an opportunity:
 
 - 📧 **Email**: immaharhasaan@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/muhammadhassan](https://linkedin.com/in/muhammadhassan)
+- 💼 **LinkedIn**: _Coming Soon_
+
+---
 
